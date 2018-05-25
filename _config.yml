@@ -1,11 +1,11 @@
-title: Livid
-author: Livid
-email: livid@v2ex.com
+title: ZYW
+author: ZYW
+email: IM@ZYW.IM
 description: > # this means to ignore newlines until "twitter_username:"
   Beautifully Advance
 
 # social links
-twitter_username: livid
+twitter_username: wy5
 # github_username:  livid
 rss: rss
 # dribbble_username: livid
@@ -17,7 +17,7 @@ rss: rss
 # youtube_username: jekyll
 # googleplus_username: +jekyll
 
-google_analytics: UA-11940834-17
+# google_analytics: UA-11940834-17
 
 # Mastodon instances
 # mastodon:
